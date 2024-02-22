@@ -1,2 +1,2 @@
 # Django-Blog-site
-Build Blog website using Django
+Build Blog your own website using Django
